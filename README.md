@@ -7,4 +7,4 @@
   <code>Custom Message</code> <br>
 <p>
   
-<footer>© Loyalty</footer>
+<footer>© Loyalty Gang</footer>

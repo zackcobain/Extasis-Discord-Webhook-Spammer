@@ -1,8 +1,6 @@
 from colorama import *
 import os
 import requests
-import random
-import string
 import time
 
 init(convert=True)
